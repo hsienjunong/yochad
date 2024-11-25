@@ -1,6 +1,6 @@
 # **Yochad - knockoff Jarvis**
 
-Powered by an **UR3e**, **LLMs**, and questionable brilliance, this system takes your human ramblings, converts them into **sexy robotic commands**, and makes your robot obey you like a you're its master.
+Powered by an **UR3e**, **LLMs**, and questionable brilliance, this system takes your human ramblings, converts them into **sexy robotic commands**, and makes your robot obey you like you're its master.
 
 ---
 
