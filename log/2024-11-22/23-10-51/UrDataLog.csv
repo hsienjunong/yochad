@@ -1,0 +1,26 @@
+Time;ModuleName;Level;Channel;UR_Time;Value1;Value2;Value3;Value4;Value5;Value6
+2024-11-22 23:10:52,703;URBasic.dataLogData;INFO;actual_q;3124.564;0.0;0.0;0.0;0.0;0.0;0.0
+2024-11-22 23:10:52,703;URBasic.dataLogData;INFO;actual_qd;3124.564;0.0;0.0;0.0;0.0;0.0;0.0
+2024-11-22 23:10:52,703;URBasic.dataLogData;INFO;actual_TCP_pose;3124.564;-0.45675;-0.22315;0.0665;1.570796;0.0;0.0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;actual_TCP_force;3124.564;0.0;0.0;0.0;0.0;0.0;0.0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;actual_digital_input_bits;3124.564;0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;robot_mode;3124.564;7
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;actual_tool_accelerometer;3124.564;0.0;9.82;-0.0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;speed_scaling;3124.564;0.0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;actual_momentum;3124.564;0.0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;actual_digital_output_bits;3124.564;0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;runtime_state;3124.564;1
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;robot_status_bits;3124.564;1
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;safety_status_bits;3124.564;1
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;analog_io_types;3124.564;3
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;standard_analog_input0;3124.564;0.0
+2024-11-22 23:10:52,704;URBasic.dataLogData;INFO;standard_analog_input1;3124.564;0.0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;standard_analog_output0;3124.564;0.004
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;standard_analog_output1;3124.564;0.004
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_bit_registers0_to_31;3124.564;0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_int_register_0;3124.564;0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_int_register_1;3124.564;0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_double_register_0;3124.564;0.0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_double_register_1;3124.564;0.0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_double_register_2;3124.564;0.0
+2024-11-22 23:10:52,705;URBasic.dataLogData;INFO;output_double_register_3;3124.564;0.0

@@ -1,0 +1,16 @@
+2024-11-20 21:30:15,117 - URBasic_robotModelEvent - INFO - Init done
+2024-11-20 21:30:15,624 - URBasic_realTimeClientEvent - INFO - Connected
+2024-11-20 21:30:15,624 - URBasic_realTimeClientEvent - INFO - RT_CLient constructor done
+2024-11-20 21:30:15,628 - URBasic_dataLogEvent - INFO - DataLog constructor done
+2024-11-20 21:30:15,630 - URBasic_rtdeEvent - INFO - RTDE constructor done
+2024-11-20 21:30:16,936 - URBasic_rtdeEvent - INFO - Controller version: 5.18.1-0
+2024-11-20 21:30:16,958 - URBasic_rtdeEvent - WARNING - Server message: SafetySetup has not been confirmed yet, therefore no data will be send yet
+2024-11-20 21:30:16,968 - URBasic_rtdeEvent - INFO - RTDE started
+2024-11-20 21:30:17,636 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-11-20 21:30:19,410 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 8.59 - 9.999999999999787 milliseconds since last package
+2024-11-20 21:30:19,645 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-11-20 21:30:21,650 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-11-20 21:30:22,187 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 11.229999999999999 - 9.999999999999787 milliseconds since last package
+2024-11-20 21:30:23,659 - URBasic_dashboardEvent - ERROR - Dashboard connecting
+2024-11-20 21:30:25,517 - URBasic_rtdeEvent - INFO - Total packages: 1000
+2024-11-20 21:30:25,661 - URBasic_dashboardEvent - ERROR - Dashboard connecting

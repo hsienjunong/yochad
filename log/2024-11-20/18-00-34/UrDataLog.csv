@@ -1,0 +1,26 @@
+Time;ModuleName;Level;Channel;UR_Time;Value1;Value2;Value3;Value4;Value5;Value6
+2024-11-20 18:00:35,561;URBasic.dataLogData;INFO;actual_q;1940.7559999999999;-1.6007;-1.7271;-2.203;-0.808;1.5951;-0.031
+2024-11-20 18:00:35,562;URBasic.dataLogData;INFO;actual_qd;1940.7559999999999;0.0;0.0;0.0;0.0;0.0;0.0
+2024-11-20 18:00:35,562;URBasic.dataLogData;INFO;actual_TCP_pose;1940.7559999999999;-0.136862;-0.267181;0.146971;-0.001221;3.116277;0.038892
+2024-11-20 18:00:35,562;URBasic.dataLogData;INFO;actual_TCP_force;1940.7559999999999;0.0;0.0;0.0;0.0;0.0;0.0
+2024-11-20 18:00:35,563;URBasic.dataLogData;INFO;actual_digital_input_bits;1940.7559999999999;0
+2024-11-20 18:00:35,563;URBasic.dataLogData;INFO;robot_mode;1940.7559999999999;5
+2024-11-20 18:00:35,563;URBasic.dataLogData;INFO;actual_tool_accelerometer;1940.7559999999999;-0.2463;0.2449;-9.8139
+2024-11-20 18:00:35,563;URBasic.dataLogData;INFO;speed_scaling;1940.7559999999999;0.0
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;actual_momentum;1940.7559999999999;0.0
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;actual_digital_output_bits;1940.7559999999999;0
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;runtime_state;1940.7559999999999;1
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;robot_status_bits;1940.7559999999999;1
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;safety_status_bits;1940.7559999999999;1
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;analog_io_types;1940.7559999999999;3
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;standard_analog_input0;1940.7559999999999;0.0
+2024-11-20 18:00:35,564;URBasic.dataLogData;INFO;standard_analog_input1;1940.7559999999999;0.0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;standard_analog_output0;1940.7559999999999;0.004
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;standard_analog_output1;1940.7559999999999;0.004
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_bit_registers0_to_31;1940.7559999999999;0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_int_register_0;1940.7559999999999;0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_int_register_1;1940.7559999999999;0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_double_register_0;1940.7559999999999;0.0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_double_register_1;1940.7559999999999;0.0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_double_register_2;1940.7559999999999;0.0
+2024-11-20 18:00:35,565;URBasic.dataLogData;INFO;output_double_register_3;1940.7559999999999;0.0

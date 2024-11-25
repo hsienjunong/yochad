@@ -1,0 +1,23 @@
+2024-11-22 22:28:06,608 - URBasic_robotModelEvent - INFO - Init done
+2024-11-22 22:28:07,124 - URBasic_realTimeClientEvent - INFO - Connected
+2024-11-22 22:28:07,124 - URBasic_realTimeClientEvent - INFO - RT_CLient constructor done
+2024-11-22 22:28:07,126 - URBasic_dataLogEvent - INFO - DataLog constructor done
+2024-11-22 22:28:07,127 - URBasic_rtdeEvent - INFO - RTDE constructor done
+2024-11-22 22:28:07,638 - URBasic_dashboardEvent - INFO - Connected
+2024-11-22 22:28:07,638 - URBasic_dashboardEvent - INFO - UR Dashboard respond Connected: Universal Robots Dashboard Server
+2024-11-22 22:28:07,639 - URBasic_dashboardEvent - INFO - Dashboard server constructor done
+2024-11-22 22:28:07,639 - URBasic_robotConnectorEvent - INFO - Init done
+2024-11-22 22:28:08,308 - URBasic_rtdeEvent - INFO - Controller version: 5.18.1-0
+2024-11-22 22:28:08,340 - URBasic_rtdeEvent - INFO - RTDE started
+2024-11-22 22:28:08,654 - URBasic_urScriptEvent - INFO - Init done
+2024-11-22 22:28:08,701 - URBasic_urScriptExtEvent - INFO - Init done
+2024-11-22 22:28:16,488 - URBasic_rtdeEvent - INFO - Total packages: 1000
+2024-11-22 22:28:24,638 - URBasic_rtdeEvent - INFO - Total packages: 2000
+2024-11-22 22:28:32,764 - URBasic_rtdeEvent - INFO - Total packages: 3000
+2024-11-22 22:28:34,729 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 635.4599999999999 - 9.999999999990905 milliseconds since last package
+2024-11-22 22:28:40,889 - URBasic_rtdeEvent - INFO - Total packages: 4000
+2024-11-22 22:28:45,028 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 645.572 - 9.999999999990905 milliseconds since last package
+2024-11-22 22:28:46,320 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 646.836 - 9.999999999990905 milliseconds since last package
+2024-11-22 22:28:49,080 - URBasic_rtdeEvent - INFO - Total packages: 5000
+2024-11-22 22:28:52,248 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 652.588 - 9.999999999990905 milliseconds since last package
+2024-11-22 22:28:54,639 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 654.932 - 9.999999999990905 milliseconds since last package

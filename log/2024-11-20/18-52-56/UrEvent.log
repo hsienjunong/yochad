@@ -1,0 +1,364 @@
+2024-11-20 18:52:56,525 - URBasic_robotModelEvent - INFO - Init done
+2024-11-20 18:52:57,040 - URBasic_realTimeClientEvent - INFO - Connected
+2024-11-20 18:52:57,040 - URBasic_realTimeClientEvent - INFO - RT_CLient constructor done
+2024-11-20 18:52:57,043 - URBasic_dataLogEvent - INFO - DataLog constructor done
+2024-11-20 18:52:57,044 - URBasic_rtdeEvent - INFO - RTDE constructor done
+2024-11-20 18:52:57,567 - URBasic_dashboardEvent - INFO - Connected
+2024-11-20 18:52:57,567 - URBasic_dashboardEvent - INFO - UR Dashboard respond Connected: Universal Robots Dashboard Server
+2024-11-20 18:52:57,567 - URBasic_dashboardEvent - INFO - Dashboard server constructor done
+2024-11-20 18:52:57,568 - URBasic_robotConnectorEvent - INFO - Init done
+2024-11-20 18:52:57,976 - URBasic_rtdeEvent - INFO - Controller version: 5.18.1-0
+2024-11-20 18:52:58,037 - URBasic_rtdeEvent - INFO - RTDE started
+2024-11-20 18:52:58,577 - URBasic_urScriptEvent - INFO - Init done
+2024-11-20 18:52:58,626 - URBasic_urScriptExtEvent - INFO - Init done
+2024-11-20 18:53:04,071 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 4986.266 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:06,235 - URBasic_rtdeEvent - INFO - Total packages: 1000
+2024-11-20 18:53:07,896 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 4989.938 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:11,675 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 4993.61 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:11,753 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 4993.682 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:14,522 - URBasic_rtdeEvent - INFO - Total packages: 2000
+2024-11-20 18:53:22,708 - URBasic_rtdeEvent - INFO - Total packages: 3000
+2024-11-20 18:53:22,982 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5004.642 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:23,248 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5004.866 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:24,477 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5006.05 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:24,646 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5006.204 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:53:24,756 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5006.2919999999995 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:53:25,282 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5006.8099999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:53:30,990 - URBasic_rtdeEvent - INFO - Total packages: 4000
+2024-11-20 18:53:39,152 - URBasic_rtdeEvent - INFO - Total packages: 5000
+2024-11-20 18:53:45,073 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5026.186 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:45,320 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5026.41 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:46,286 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5027.284 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:53:46,301 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5027.298 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:53:47,450 - URBasic_rtdeEvent - INFO - Total packages: 6000
+2024-11-20 18:53:55,620 - URBasic_rtdeEvent - INFO - Total packages: 7000
+2024-11-20 18:54:03,797 - URBasic_rtdeEvent - INFO - Total packages: 8000
+2024-11-20 18:54:12,069 - URBasic_rtdeEvent - INFO - Total packages: 9000
+2024-11-20 18:54:14,633 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5054.882 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:15,255 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5055.482 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:20,290 - URBasic_rtdeEvent - INFO - Total packages: 10000
+2024-11-20 18:54:28,461 - URBasic_rtdeEvent - INFO - Total packages: 11000
+2024-11-20 18:54:36,736 - URBasic_rtdeEvent - INFO - Total packages: 12000
+2024-11-20 18:54:39,483 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5078.986 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:39,520 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5079.01 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:39,537 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5079.026 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:39,612 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5079.081999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:54:39,654 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5079.121999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:54:39,729 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5079.1939999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:54:42,887 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5082.242 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:44,248 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5083.572 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:54:44,275 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5083.594 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:54:44,299 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5083.6179999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:54:45,090 - URBasic_rtdeEvent - INFO - Total packages: 13000
+2024-11-20 18:54:45,693 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5084.969999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:54:51,140 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5090.161999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:54:53,420 - URBasic_rtdeEvent - INFO - Total packages: 14000
+2024-11-20 18:54:57,930 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5096.794 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:55:01,740 - URBasic_rtdeEvent - INFO - Total packages: 15000
+2024-11-20 18:55:09,228 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5107.634 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:55:09,990 - URBasic_rtdeEvent - INFO - Total packages: 16000
+2024-11-20 18:55:14,744 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5113.0019999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:55:14,765 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5113.018 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:55:14,853 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5113.036 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:55:18,383 - URBasic_rtdeEvent - INFO - Total packages: 17000
+2024-11-20 18:55:19,541 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5117.434 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:55:23,753 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5121.545999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:55:26,686 - URBasic_rtdeEvent - INFO - Total packages: 18000
+2024-11-20 18:55:34,928 - URBasic_rtdeEvent - INFO - Total packages: 19000
+2024-11-20 18:55:36,465 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5133.849999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:55:43,164 - URBasic_rtdeEvent - INFO - Total packages: 20000
+2024-11-20 18:55:45,173 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5142.334 - 14.000000000123691 milliseconds since last package
+2024-11-20 18:55:51,429 - URBasic_rtdeEvent - INFO - Total packages: 21000
+2024-11-20 18:55:54,748 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5151.585999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:55:59,692 - URBasic_rtdeEvent - INFO - Total packages: 22000
+2024-11-20 18:56:04,233 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5160.762 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:04,797 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5161.282 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:08,010 - URBasic_rtdeEvent - INFO - Total packages: 23000
+2024-11-20 18:56:11,385 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5167.642 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:11,548 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5167.754 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:11,648 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5167.844 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:56:12,762 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5168.914 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:14,552 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5170.6179999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:56:14,603 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5170.666 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:14,717 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5170.777999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:56:16,381 - URBasic_rtdeEvent - INFO - Total packages: 24000
+2024-11-20 18:56:21,129 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5176.994 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:21,270 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5177.074 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:21,513 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5177.298 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:21,683 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5177.346 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:21,811 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5177.428 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:56:22,347 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5177.878 - 14.000000000123691 milliseconds since last package
+2024-11-20 18:56:24,980 - URBasic_rtdeEvent - INFO - Total packages: 25000
+2024-11-20 18:56:28,141 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5183.393999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:56:31,895 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5187.0419999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:56:33,278 - URBasic_rtdeEvent - INFO - Total packages: 26000
+2024-11-20 18:56:40,321 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5195.178 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:40,523 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5195.37 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:41,572 - URBasic_rtdeEvent - INFO - Total packages: 27000
+2024-11-20 18:56:41,675 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5196.482 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:42,437 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5197.21 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:43,882 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5198.494 - 14.000000000123691 milliseconds since last package
+2024-11-20 18:56:43,965 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5198.562 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:43,978 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5198.572 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:44,141 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5198.602 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:44,575 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5198.996 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:56:45,757 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5200.13 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:46,220 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5200.545999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:56:48,732 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5202.924 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:56:48,947 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5203.098 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:48,992 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5203.138 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:49,024 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5203.17 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:56:50,261 - URBasic_rtdeEvent - INFO - Total packages: 28000
+2024-11-20 18:56:58,474 - URBasic_rtdeEvent - INFO - Total packages: 29000
+2024-11-20 18:57:06,608 - URBasic_rtdeEvent - INFO - Total packages: 30000
+2024-11-20 18:57:14,795 - URBasic_rtdeEvent - INFO - Total packages: 31000
+2024-11-20 18:57:22,931 - URBasic_rtdeEvent - INFO - Total packages: 32000
+2024-11-20 18:57:31,072 - URBasic_rtdeEvent - INFO - Total packages: 33000
+2024-11-20 18:57:39,220 - URBasic_rtdeEvent - INFO - Total packages: 34000
+2024-11-20 18:57:47,367 - URBasic_rtdeEvent - INFO - Total packages: 35000
+2024-11-20 18:57:55,526 - URBasic_rtdeEvent - INFO - Total packages: 36000
+2024-11-20 18:58:03,669 - URBasic_rtdeEvent - INFO - Total packages: 37000
+2024-11-20 18:58:11,870 - URBasic_rtdeEvent - INFO - Total packages: 38000
+2024-11-20 18:58:16,022 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5288.3859999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:58:16,959 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5289.306 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:58:19,912 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5292.13 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:58:20,188 - URBasic_rtdeEvent - INFO - Total packages: 39000
+2024-11-20 18:58:27,353 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5299.393999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:58:28,361 - URBasic_rtdeEvent - INFO - Total packages: 40000
+2024-11-20 18:58:30,737 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5302.706 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:58:36,568 - URBasic_rtdeEvent - INFO - Total packages: 41000
+2024-11-20 18:58:38,954 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5310.69 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:58:44,764 - URBasic_rtdeEvent - INFO - Total packages: 42000
+2024-11-20 18:58:52,913 - URBasic_rtdeEvent - INFO - Total packages: 43000
+2024-11-20 18:59:01,176 - URBasic_rtdeEvent - INFO - Total packages: 44000
+2024-11-20 18:59:03,366 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5334.451999999999 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:59:03,423 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5334.482 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:05,373 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5336.259999999999 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:59:07,135 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5337.922 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:09,010 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5339.692 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:59:09,096 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5339.748 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:59:09,386 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5339.938 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:09,419 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5339.964 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:59:09,728 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5340.178 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:09,941 - URBasic_rtdeEvent - INFO - Total packages: 45000
+2024-11-20 18:59:10,363 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5340.722 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:10,525 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5340.866 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:10,725 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5341.0019999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:59:15,385 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5345.364 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:59:16,681 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5346.49 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:18,645 - URBasic_rtdeEvent - INFO - Total packages: 46000
+2024-11-20 18:59:19,369 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5349.0599999999995 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:59:21,096 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5350.706 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:21,120 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5350.724 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:59:26,294 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5355.474 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:27,242 - URBasic_rtdeEvent - INFO - Total packages: 47000
+2024-11-20 18:59:35,483 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5364.298 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:35,541 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5364.33 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:35,607 - URBasic_rtdeEvent - INFO - Total packages: 48000
+2024-11-20 18:59:37,477 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5366.164 - 11.999999999716238 milliseconds since last package
+2024-11-20 18:59:37,686 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5366.338 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:37,778 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5366.402 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:43,894 - URBasic_rtdeEvent - INFO - Total packages: 49000
+2024-11-20 18:59:47,205 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5375.538 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:47,469 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5375.737999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 18:59:47,530 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5375.7699999999995 - 10.000000000218279 milliseconds since last package
+2024-11-20 18:59:47,626 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5375.844 - 12.000000000625732 milliseconds since last package
+2024-11-20 18:59:52,270 - URBasic_rtdeEvent - INFO - Total packages: 50000
+2024-11-20 19:00:00,407 - URBasic_rtdeEvent - INFO - Total packages: 51000
+2024-11-20 19:00:08,547 - URBasic_rtdeEvent - INFO - Total packages: 52000
+2024-11-20 19:00:16,698 - URBasic_rtdeEvent - INFO - Total packages: 53000
+2024-11-20 19:00:24,867 - URBasic_rtdeEvent - INFO - Total packages: 54000
+2024-11-20 19:00:32,654 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5420.026 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:00:33,050 - URBasic_rtdeEvent - INFO - Total packages: 55000
+2024-11-20 19:00:33,186 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5420.522 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:00:37,145 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5424.402 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:00:41,200 - URBasic_rtdeEvent - INFO - Total packages: 56000
+2024-11-20 19:00:49,334 - URBasic_rtdeEvent - INFO - Total packages: 57000
+2024-11-20 19:00:57,253 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5444.17 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:00:57,482 - URBasic_rtdeEvent - INFO - Total packages: 58000
+2024-11-20 19:01:05,657 - URBasic_rtdeEvent - INFO - Total packages: 59000
+2024-11-20 19:01:10,108 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5456.714 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:01:13,859 - URBasic_rtdeEvent - INFO - Total packages: 60000
+2024-11-20 19:01:16,436 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5462.906 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:01:19,002 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5465.42 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:01:19,601 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5465.994 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:01:19,634 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5466.018 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:01:22,057 - URBasic_rtdeEvent - INFO - Total packages: 61000
+2024-11-20 19:01:30,170 - URBasic_rtdeEvent - INFO - Total packages: 62000
+2024-11-20 19:01:38,318 - URBasic_rtdeEvent - INFO - Total packages: 63000
+2024-11-20 19:01:46,511 - URBasic_rtdeEvent - INFO - Total packages: 64000
+2024-11-20 19:01:48,170 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5494.0019999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:01:53,918 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5499.634 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:01:54,277 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5499.978 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:01:54,688 - URBasic_rtdeEvent - INFO - Total packages: 65000
+2024-11-20 19:02:02,908 - URBasic_rtdeEvent - INFO - Total packages: 66000
+2024-11-20 19:02:07,940 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5513.33 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:07,975 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5513.362 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:08,073 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5513.458 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:08,364 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5513.6759999999995 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:02:08,444 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5513.714 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:09,373 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5514.53 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:11,282 - URBasic_rtdeEvent - INFO - Total packages: 67000
+2024-11-20 19:02:13,723 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5518.786 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:19,427 - URBasic_rtdeEvent - INFO - Total packages: 68000
+2024-11-20 19:02:27,614 - URBasic_rtdeEvent - INFO - Total packages: 69000
+2024-11-20 19:02:35,800 - URBasic_rtdeEvent - INFO - Total packages: 70000
+2024-11-20 19:02:43,991 - URBasic_rtdeEvent - INFO - Total packages: 71000
+2024-11-20 19:02:52,139 - URBasic_rtdeEvent - INFO - Total packages: 72000
+2024-11-20 19:02:58,780 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5562.786 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:02:59,705 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5563.692 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:03:00,410 - URBasic_rtdeEvent - INFO - Total packages: 73000
+2024-11-20 19:03:02,884 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5566.762 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:03,461 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5567.266 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:03,931 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5567.706 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:04,165 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5567.929999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:03:04,188 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5567.954 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:04,308 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5568.009999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:03:04,398 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5568.098 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:08,802 - URBasic_rtdeEvent - INFO - Total packages: 74000
+2024-11-20 19:03:10,998 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5574.538 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:17,000 - URBasic_rtdeEvent - INFO - Total packages: 75000
+2024-11-20 19:03:18,136 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5581.538 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:18,168 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5581.563999999999 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:03:21,191 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.4039999999995 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:03:21,401 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.523999999999 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:03:21,467 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.572 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:03:21,573 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.642 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:21,699 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.724 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:03:21,771 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.7699999999995 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:22,017 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5584.929999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:03:25,564 - URBasic_rtdeEvent - INFO - Total packages: 76000
+2024-11-20 19:03:25,780 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5588.602 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:03:29,912 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5592.596 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:03:33,887 - URBasic_rtdeEvent - INFO - Total packages: 77000
+2024-11-20 19:03:42,020 - URBasic_rtdeEvent - INFO - Total packages: 78000
+2024-11-20 19:03:50,229 - URBasic_rtdeEvent - INFO - Total packages: 79000
+2024-11-20 19:03:58,365 - URBasic_rtdeEvent - INFO - Total packages: 80000
+2024-11-20 19:04:06,535 - URBasic_rtdeEvent - INFO - Total packages: 81000
+2024-11-20 19:04:14,764 - URBasic_rtdeEvent - INFO - Total packages: 82000
+2024-11-20 19:04:22,926 - URBasic_rtdeEvent - INFO - Total packages: 83000
+2024-11-20 19:04:29,656 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5650.954 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:04:31,131 - URBasic_rtdeEvent - INFO - Total packages: 84000
+2024-11-20 19:04:39,328 - URBasic_rtdeEvent - INFO - Total packages: 85000
+2024-11-20 19:04:47,530 - URBasic_rtdeEvent - INFO - Total packages: 86000
+2024-11-20 19:04:55,705 - URBasic_rtdeEvent - INFO - Total packages: 87000
+2024-11-20 19:04:59,325 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5679.874 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:05:01,792 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5682.21 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:05:04,065 - URBasic_rtdeEvent - INFO - Total packages: 88000
+2024-11-20 19:05:04,390 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5684.69 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:05:12,281 - URBasic_rtdeEvent - INFO - Total packages: 89000
+2024-11-20 19:05:20,431 - URBasic_rtdeEvent - INFO - Total packages: 90000
+2024-11-20 19:05:28,627 - URBasic_rtdeEvent - INFO - Total packages: 91000
+2024-11-20 19:05:36,742 - URBasic_rtdeEvent - INFO - Total packages: 92000
+2024-11-20 19:05:44,913 - URBasic_rtdeEvent - INFO - Total packages: 93000
+2024-11-20 19:05:48,630 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5728.058 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:05:53,040 - URBasic_rtdeEvent - INFO - Total packages: 94000
+2024-11-20 19:06:01,170 - URBasic_rtdeEvent - INFO - Total packages: 95000
+2024-11-20 19:06:09,327 - URBasic_rtdeEvent - INFO - Total packages: 96000
+2024-11-20 19:06:17,496 - URBasic_rtdeEvent - INFO - Total packages: 97000
+2024-11-20 19:06:18,871 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5757.746 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:06:18,944 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5757.786 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:06:19,015 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5757.817999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:06:25,706 - URBasic_rtdeEvent - INFO - Total packages: 98000
+2024-11-20 19:06:33,851 - URBasic_rtdeEvent - INFO - Total packages: 99000
+2024-11-20 19:06:41,980 - URBasic_rtdeEvent - INFO - Total packages: 100000
+2024-11-20 19:06:50,175 - URBasic_rtdeEvent - INFO - Total packages: 101000
+2024-11-20 19:06:58,360 - URBasic_rtdeEvent - INFO - Total packages: 102000
+2024-11-20 19:07:06,487 - URBasic_rtdeEvent - INFO - Total packages: 103000
+2024-11-20 19:07:14,628 - URBasic_rtdeEvent - INFO - Total packages: 104000
+2024-11-20 19:07:16,109 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5813.802 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:07:22,800 - URBasic_rtdeEvent - INFO - Total packages: 105000
+2024-11-20 19:07:30,940 - URBasic_rtdeEvent - INFO - Total packages: 106000
+2024-11-20 19:07:34,232 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5831.572 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:07:36,155 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5833.4259999999995 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:07:36,173 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5833.442 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:07:39,168 - URBasic_rtdeEvent - INFO - Total packages: 107000
+2024-11-20 19:07:47,340 - URBasic_rtdeEvent - INFO - Total packages: 108000
+2024-11-20 19:07:55,466 - URBasic_rtdeEvent - INFO - Total packages: 109000
+2024-11-20 19:08:03,610 - URBasic_rtdeEvent - INFO - Total packages: 110000
+2024-11-20 19:08:11,748 - URBasic_rtdeEvent - INFO - Total packages: 111000
+2024-11-20 19:08:13,365 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5869.922 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:13,801 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5870.322 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:14,240 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5870.666 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:14,425 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5870.834 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:14,466 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5870.866 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:14,623 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5870.994 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:14,690 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5871.05 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:14,783 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5871.121999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:08:14,994 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5871.282 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:15,430 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5871.666 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:15,502 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5871.73 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:20,290 - URBasic_rtdeEvent - INFO - Total packages: 112000
+2024-11-20 19:08:28,512 - URBasic_rtdeEvent - INFO - Total packages: 113000
+2024-11-20 19:08:30,164 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5886.0019999999995 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:31,612 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5887.3859999999995 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:08:36,767 - URBasic_rtdeEvent - INFO - Total packages: 114000
+2024-11-20 19:08:44,979 - URBasic_rtdeEvent - INFO - Total packages: 115000
+2024-11-20 19:08:53,153 - URBasic_rtdeEvent - INFO - Total packages: 116000
+2024-11-20 19:09:01,341 - URBasic_rtdeEvent - INFO - Total packages: 117000
+2024-11-20 19:09:09,487 - URBasic_rtdeEvent - INFO - Total packages: 118000
+2024-11-20 19:09:09,854 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5924.737999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:09:17,663 - URBasic_rtdeEvent - INFO - Total packages: 119000
+2024-11-20 19:09:25,838 - URBasic_rtdeEvent - INFO - Total packages: 120000
+2024-11-20 19:09:34,010 - URBasic_rtdeEvent - INFO - Total packages: 121000
+2024-11-20 19:09:42,161 - URBasic_rtdeEvent - INFO - Total packages: 122000
+2024-11-20 19:09:50,296 - URBasic_rtdeEvent - INFO - Total packages: 123000
+2024-11-20 19:09:58,459 - URBasic_rtdeEvent - INFO - Total packages: 124000
+2024-11-20 19:10:06,688 - URBasic_rtdeEvent - INFO - Total packages: 125000
+2024-11-20 19:10:06,700 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5980.393999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:10:14,914 - URBasic_rtdeEvent - INFO - Total packages: 126000
+2024-11-20 19:10:19,873 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 5993.186 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:10:23,157 - URBasic_rtdeEvent - INFO - Total packages: 127000
+2024-11-20 19:10:31,319 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6004.33 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:10:31,383 - URBasic_rtdeEvent - INFO - Total packages: 128000
+2024-11-20 19:10:31,483 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6004.465999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:10:33,291 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6006.218 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:10:39,670 - URBasic_rtdeEvent - INFO - Total packages: 129000
+2024-11-20 19:10:47,850 - URBasic_rtdeEvent - INFO - Total packages: 130000
+2024-11-20 19:10:56,026 - URBasic_rtdeEvent - INFO - Total packages: 131000
+2024-11-20 19:11:04,175 - URBasic_rtdeEvent - INFO - Total packages: 132000
+2024-11-20 19:11:12,370 - URBasic_rtdeEvent - INFO - Total packages: 133000
+2024-11-20 19:11:13,087 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6045.084 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:11:20,520 - URBasic_rtdeEvent - INFO - Total packages: 134000
+2024-11-20 19:11:28,650 - URBasic_rtdeEvent - INFO - Total packages: 135000
+2024-11-20 19:11:36,843 - URBasic_rtdeEvent - INFO - Total packages: 136000
+2024-11-20 19:11:45,007 - URBasic_rtdeEvent - INFO - Total packages: 137000
+2024-11-20 19:11:53,170 - URBasic_rtdeEvent - INFO - Total packages: 138000
+2024-11-20 19:12:01,355 - URBasic_rtdeEvent - INFO - Total packages: 139000
+2024-11-20 19:12:09,630 - URBasic_rtdeEvent - INFO - Total packages: 140000
+2024-11-20 19:12:17,920 - URBasic_rtdeEvent - INFO - Total packages: 141000
+2024-11-20 19:12:26,140 - URBasic_rtdeEvent - INFO - Total packages: 142000
+2024-11-20 19:12:34,410 - URBasic_rtdeEvent - INFO - Total packages: 143000
+2024-11-20 19:12:42,691 - URBasic_rtdeEvent - INFO - Total packages: 144000
+2024-11-20 19:12:50,867 - URBasic_rtdeEvent - INFO - Total packages: 145000
+2024-11-20 19:12:56,089 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6145.458 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:12:59,080 - URBasic_rtdeEvent - INFO - Total packages: 146000
+2024-11-20 19:13:03,195 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6152.331999999999 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:13:03,245 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6152.346 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:13:07,400 - URBasic_rtdeEvent - INFO - Total packages: 147000
+2024-11-20 19:13:11,640 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6160.5 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:13:15,694 - URBasic_rtdeEvent - INFO - Total packages: 148000
+2024-11-20 19:13:19,473 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6167.994 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:13:24,148 - URBasic_rtdeEvent - INFO - Total packages: 149000
+2024-11-20 19:13:26,270 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6174.428 - 11.999999999716238 milliseconds since last package
+2024-11-20 19:13:26,321 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6174.442 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:13:32,424 - URBasic_rtdeEvent - INFO - Total packages: 150000
+2024-11-20 19:13:40,640 - URBasic_rtdeEvent - INFO - Total packages: 151000
+2024-11-20 19:13:48,787 - URBasic_rtdeEvent - INFO - Total packages: 152000
+2024-11-20 19:13:56,907 - URBasic_rtdeEvent - INFO - Total packages: 153000
+2024-11-20 19:14:05,053 - URBasic_rtdeEvent - INFO - Total packages: 154000
+2024-11-20 19:14:05,711 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6213.026 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:07,706 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6214.922 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:08,027 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6215.226 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:08,650 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6215.754 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:09,049 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6216.146 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:13,450 - URBasic_rtdeEvent - INFO - Total packages: 155000
+2024-11-20 19:14:15,841 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6222.724 - 12.000000000625732 milliseconds since last package
+2024-11-20 19:14:15,984 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6222.853999999999 - 13.999999999214197 milliseconds since last package
+2024-11-20 19:14:16,022 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6222.889999999999 - 9.999999999308784 milliseconds since last package
+2024-11-20 19:14:21,670 - URBasic_rtdeEvent - INFO - Total packages: 156000
+2024-11-20 19:14:29,849 - URBasic_rtdeEvent - INFO - Total packages: 157000
+2024-11-20 19:14:30,220 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6236.73 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:30,312 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6236.794 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:31,584 - URBasic_rtdeEvent - ERROR - Lost some RTDE at 6238.034 - 10.000000000218279 milliseconds since last package
+2024-11-20 19:14:38,087 - URBasic_rtdeEvent - INFO - Total packages: 158000
