@@ -36,3 +36,55 @@ pip install -r requirements.txt
 py main.py
 ```
 5. Say random stuff and let Yochad work its magic.
+
+
+## **How to Add Custom Tools**
+
+1. **Write a Function**  
+   - Create a Python function for your tool logic.
+
+2. **Add a Docstring**  
+   - Include a detailed docstring describing:
+     - **What the tool does**.
+     - **Arguments** the tool takes and their types.
+     - **Return values**, if any.
+
+3. **Wrap with `@tool`**  
+   - Add `@tool` above the function definition to register it as a tool.
+
+4. **Example**  
+   Here’s an example of a simple tool that multiplies two numbers:
+   ```python
+   @tool
+   def multiply_numbers(a, b):
+       """
+       Multiplies two numbers.
+
+       Args:
+           a (int or float): The first number.
+           b (int or float): The second number.
+
+       Returns:
+           int or float: The product of the two numbers.
+       """
+       return a * b
+   ```
+5. **Add the Tool to the Agent's Tool List**
+
+   - Integrate your new tool into the agent's list of tools.
+   - Replace the existing tool list items with your custom tools as needed.
+
+   ```python
+   tools = [
+       tool1,
+       tool2,
+       tool3,
+       # Add your custom tool
+       multiply_numbers,
+   ]
+   ```
+
+6. **Test the Tool**
+
+   - **Integrate and Test**: Add the tool to Yochad and invoke it using commands to confirm it's functioning correctly.
+   
