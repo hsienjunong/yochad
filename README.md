@@ -1,20 +1,6 @@
-# **Yochad - knockoff Jarvis**
+# **Yochad**
 
-Powered by an **UR3e**, **LLMs**, and questionable brilliance, this system takes your human ramblings, converts them into **sexy robotic commands**, and makes your robot obey you like you're its master.
-
----
-
-## **What Can Yochad Do?**
-1. **Talk, Think, Command**: Using **LangGraph**, Yochad can:
-   - google stuff so your dumbass don’t have to
-   - turn “yochad, spin baby spin” into actual robot spinny code
-
-2. **Ultimate Flex**: Yochad translates your nonsense into precision robot movements. Basically, you say it, Yochad does it
-
----
-
-## **Why Yochad?**
-It’s **lazy brilliance in action**. No PhDs or manuals needed—just chat with Yochad and watch it make your **UR3e robot** flex like a champ.
+Powered by an **UR3e**, **LLMs**, and questionable brilliance, this system takes your human ramblings, converts them into **robotic commands**.
 
 ---
 
