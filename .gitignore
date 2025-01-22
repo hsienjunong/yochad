@@ -3,3 +3,6 @@ myenv/
 
 # Ignore environment file
 .env
+
+# Ignore README file
+README.md
